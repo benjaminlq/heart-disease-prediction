@@ -10,15 +10,43 @@
 
 <img src="https://user-images.githubusercontent.com/99384454/188098165-46d0c721-190f-4854-80e4-6d24eb6d700b.png" width="950">
 
-## Business Objectives
+# <center> TABLE OF CONTENTS </center>
+  - [Business Objectives](#business-objectives)
+  - [Explanatory Data Analysis (EDA)](#explanatory-data-analysis-eda)
+  - [Feature Engineering](#feature-engineering)
+  - [Model Training and Optimization](#model-training-and-optimization)
+  - [Results and Discussion](#results-and-discussion)
+<br><br>
+
+# Business Objectives
 
 The objective of this project is to build a model to predict the survival of CAD patients to help doctors formulate pre-emptive medical treatment using Machine Learning based on patient particulars (age, gender) and their medical records (smoking/diabete status
 
-## Explanatory Data Analysis (EDA)
+<br>
 
-## Feature Engineering
+# Explanatory Data Analysis (EDA)
 
-## Model Training and Optimization
+## 1. Target Variable
+## 2. Continuous Variables
+### 2.1. Univariate Distributions
+### 2.2. Multivariate Analysis
+## 3. Categorical Variables
+### 3.1. Univariate Distributions
+### 3.2. Multivariate Analysis
 
-## Results and Discussion
+<br>
+
+# Feature Engineering
+
+<br>
+
+# Model Training and Optimization
+
+<br>
+
+# Results and Discussion
+
+<br>
+
+# Conclusion
 
